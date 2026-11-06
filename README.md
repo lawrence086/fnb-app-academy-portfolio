@@ -7,10 +7,12 @@ here as I work through the programme.
 
 - [Budget tracker](budget-tracker/) - a command-line app for recording income
   and expenses, checking balances, and setting category budgets.
+- [Weather Desk](weather-dashboard/) - my Phase 3 capstone, a Flet app for
+  checking current weather and a three-day forecast.
 
 The budget tracker brings together what I learned about functions, lists,
-dictionaries, loops, and input validation. As I continue with app development,
-I'll add projects using classes, files, Flet, and APIs.
+dictionaries, loops, and input validation. Weather Desk builds on that with
+classes, Flet screens, city search, API requests, and error handling.
 
 Each project has its own instructions for running the code and tests.
 
